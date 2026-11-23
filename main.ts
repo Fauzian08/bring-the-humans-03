@@ -16,8 +16,8 @@
 // round 3 rebuilds it again in a fast meme-ad style (giant condensed
 // headlines, typewriter reveals, a chill-vs-speeding split screen, flying
 // checklist cards, a speedometer, a scrolling leaderboard, white capsule
-// pills narrating the story) with a real Indonesian voiceover, still
-// frame-driven Remotion, end card laid over by ffmpeg.
+// pills narrating the story) with a real English voiceover (Meta Shortwave TTS,
+// Helio, language en, speed 120), still frame-driven Remotion, end card laid over by ffmpeg.
 //
 // Local check (mirrors the grader, with /bot and /output replaced):
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
